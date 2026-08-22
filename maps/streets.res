@@ -1,0 +1,9 @@
+gfx/env/city_niteup.tga
+gfx/env/city_nitebk.tga
+gfx/env/city_nitedn.tga
+gfx/env/city_niteft.tga
+gfx/env/city_nitelf.tga
+gfx/env/city_nitebk.tga
+sound/ambience/city1.wav
+sound/ambience/city2.wav
+sound/ambience/djkrush.wav

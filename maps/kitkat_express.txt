@@ -1,0 +1,362 @@
+=======================================================
+kitkat_express  by DocRock
+=======================================================
+
+Map Name:      		kitkat_express.bsp
+Filesize:           	4.2 mb .zip
+Author:            	DocRock
+Author email:  		docrock64@cox.net
+Homepage:      		http://www.planethalflife.com/docrocksmaps/
+
+wadincluded in map:  	express.wad  & express2.wad by  babykitkat
+			jotrain.wad by Fat Tony
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    	No
+Co-Op:                	No
+Deathmatch:     	Yes
+
+Suggested Players:  	4 - 10
+New Textures:   	Yes 
+New Sounds:      	Yes
+New Models:		No
+
+Map description:  	An Orient-Express type train map where the train moves along a track, then stops after 5  minutes at a train station.
+
+
+This is a map with large amounts of detail.  It runs very well on high-end machines.  If you run it on an older computer, you may have slow down and packet loss.  R_speeds climb into the low 1000's and framerates may drop.  This is an eye-candy map.  
+
+This train will give you the illusion of movement.  After 5 minutes of shaking, passing telephone poles outside windows, train sounds, a train whistle, and moving pictures on walls, all movement will stop, 2 doors will open, and you'll be able to go in and out of the train into a train station.  There are 2 secrets in the map, and 3 rats in the map.
+
+=======================================================
+CONSTRUCTION:
+
+base map:               None
+prefabs:                Train engine by Fat Tony (jotrain.wad)
+editor used:            Worldcraft 3.4 Hammer
+utilities used:         Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+known bugs:            	If a player spawns in the map after the train has stopped, he/she
+			will still hear the sound of a train on tracks.
+compile machine:    	AMD Athlon XP 1600  1.39 GHz  448 mb of RAM
+compile time:          	41 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip kitkat_express.zip onto your desktop.  Open the kitkat_express folder and place the kitkat_express.bsp, kitkat_express.res, and kitkat_express.txt in your valve/maps folder.  Place the 6 (six) riverscape1.tga files into your valve/gfx/env folder.
+Place the express3.spr and express4.spr in your valve/sprites folder.  Place the 3 wav files in a folder called express and place that in your valve/sounds folder.  Place the kitkat_express overview files in your valve/overviews folder.
+
+If you'd like a copy of the express.wads, email me and I'll send them to you.  docrock64@cox.net
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+kitkat_factory, hardcore, kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, DepotArena, Conundrum, Conundrum 2, The Challenger Deep...etc
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+=======================================================
+MORE THANKS!
+ 
+babykitkat		beta tester
+qUiCkSiLvEr		beta tester
+Darth Sailor		beta tester
+[USA] Shadow Santa	beta tester
+Edgar Allen Poe		beta tester
+USA TEAM		beta testers
+
+Notes of thanks:
+To babykitkat...thank you for the creation of such an awesome map.  It was your hard work in finding the correct colors, textures, lights, and ideas.  It was an honor building this map for you and with you right at my side.  I love you, my awesome wife!
+
+To Leperous:
+So many thanks for the information and all the help you gave me at the SnarkPit forums when trying to figure out the info_player_deathmatch spawn delay.  Your help was invaluable and gives the map the total feel I wanted from the get-go.  Thanks Lep, you rule!!  Also want to thank Gollum and Cash Car Star for their invaluable help in trigger_auto to stop and start an ambient generic.
+
+To qUiCkSiLvEr and the USA Team:
+Quick, you are an awesome man with such talent.  You are such a great map tech...your help with the overviews, opinions, and friendship mean very much to me.  Thank you!  Thanks too, to the USA Team who looked over and helped polish the map.   Quick set up a 24 hour server to beta the map with his team.  THANK YOU!!!
+
+To [VDC] Voodoo Child and our group of Lounge Lizards:
+Thanks goes out to [VDC] Voodoo Child, [VDC] Bodhi,  An]-[uR, Dan, RadBrad,
+[VDC] Havoc, DiScOuNt KiLlEr, Viper, Slow Poke , [S*N*M] LuKe_SKywalker and RASATABaboo (also thanks for the fog dragon included in the map) for doing the hard run and frag through the map.
+
+OTHER THANKS
+
+jitspoe			riverscape1 skybox
+
+Fat Tony		train engine prefab
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+have several...whatever comes first  lol
+ =======================================================
+COMPILE INFORMATION
+
+
+** Executing...
+** Command: Change Directory
+** Parameters: "C:\Sierra\Half-Life"
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe
+** Parameters: -wadinclude express.wad -wadinclude express2.wad "c:\program files\valve hammer editor\maps\kitkat_express"
+
+hlcsg v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlcsg.exe -wadinclude express.wad -wadinclude express2.wad "c:\program files\valve hammer editor\maps\kitkat_express"
+
+-= Current hlcsg Settings =-
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Wadinclude list :
+[zhlt.wad]
+[express.wad]
+[express2.wad]
+
+
+entering c:\program files\valve hammer editor\maps\kitkat_express.map
+CreateBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (12.89 seconds)
+SetModelCenters:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (0.00 seconds)
+CSGBrush:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (3.35 seconds)
+Using WAD File: \sierra\half-life\valve\halflife.wad
+Using WAD File: \sierra\half-life\valve\liquids.wad
+Using WAD File: \sierra\half-life\valve\decals.wad
+Embedding textures from WAD File [\sierra\half-life\valve\express.wad] into BSP
+Embedding textures from WAD File [\sierra\half-life\valve\express2.wad] into BSP
+added 4 additional animating textures.
+Texture usage is at 3.91 mb (of 4.00 mb MAX)
+16.88 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_express"
+
+hlbsp v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlbsp.exe "c:\program files\valve hammer editor\maps\kitkat_express"
+
+-= Current hlbsp Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 240)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'c:\program files\valve hammer editor\maps\kitkat_express.prt'
+9.56 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_express"
+
+hlvis v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlvis -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlvis.exe "c:\program files\valve hammer editor\maps\kitkat_express"
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+1544 portalleafs
+5234 numportals
+BasePortalVis:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (32.97 seconds)
+LeafThread:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (1584.00 seconds)
+average leafs visible: 252
+g_visdatasize:112606  compressed from 297992
+1617.49 seconds elapsed [26m 57s]
+
+-----   END   hlvis -----
+
+
+
+
+** Executing...
+** Command: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_express"
+
+hlrad v2.5.3 rel (May  2 2001)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zoner@gearboxsoftware.com)
+-----  BEGIN  hlrad -----
+Command line: C:\PROGRA~1\VALVEH~1\tools\hlrad.exe "c:\program files\valve hammer editor\maps\kitkat_express"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           256.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [             1.000 ] [             1.000 ]
+global gamma amount  [             0.500 ] [             0.500 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+
+[Reading texlights from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+[48 texlights parsed from 'C:\PROGRA~1\VALVEH~1\tools\lights.rad']
+
+7404 faces
+Create Patches : 35667 base patches
+0 opaque faces
+247671 square feet [35664728.00 square inches]
+115 direct lights
+
+BuildFacelights:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (187.25 seconds)
+visibility matrix   :  75.8 megs
+BuildVisLeafs:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (264.64 seconds)
+MakeScales:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (234.16 seconds)
+SwapTransfers:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (59.34 seconds)
+Transfer Lists : 41474400 transfers
+       Indices : 23382556 bytes
+          Data : 165897600 bytes
+Bounce 1 GatherLight:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (2.60 seconds)
+FinalLightFace:
+10%...20%...30%...40%...50%...60%...70%...80%...90%... (5.81 seconds)
+758.17 seconds elapsed [12m 38s]
+
+-----   END   hlrad -----
+
+
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_express.bsp" "C:\Sierra\Half-Life\valve\maps\kitkat_express.bsp"
+
+
+** Executing...
+** Command: Copy File
+** Parameters: "c:\program files\valve hammer editor\maps\kitkat_express.pts" "C:\Sierra\Half-Life\valve\maps\kitkat_express.pts"
+
+
+** Executing...
+** Command: C:\Sierra\HALF-L~1\hl.exe
+** Parameters: +map "kitkat_express" -dev -console
+
+
+
+===========================================================
+COPYRIGHT STUFF
+
+kitkat_express.bsp  	copyright July 20, 2002 by DocRock	
+express.wad		copyright July 20, 2002 by babykitkat
+express2.wad		copyright July 20, 2002 by babykitkat		
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+

@@ -1,0 +1,3 @@
+aquamarinetiles detail/cal/pool 1.0 1.0
+greytiles detail/cal/pool 1.0 1.0
+whitetiles detail/cal/pool 1.0 1.0

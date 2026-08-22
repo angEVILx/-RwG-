@@ -1,0 +1,44 @@
+================================================================
+Title                   : dm_vertigo
+Version                 : 1
+Release Date            : March 3rd, 2024 
+Filename                : dm_vertigo.bsp
+Author(s)               : BillyJoeTodd
+Email Address           : [REDACTED]
+Web Page(s)             : https://gamers-global.com
+                         
+
+Description             : Half-Life Deathmatch Map 
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : dm_vertigo
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : -
+
+--- Construction ---
+Editor(s) used          : J.A.C.K. 1.1.1064 (64-bit)
+Construction Time       : On and off for about a month
+
+
+
+Installation
+------------
+
+Unzip the file dm_vertigo.bsp into your ...\halflife\valve\maps directory
+
+
+Info
+----
+
+A simple port of de_vertigo from Counter-Strike 1.6 to Half-Life using a decompiler (Half-Life Unified SDK Decompiler)
+
+This is the first map I posted on Gamebanana. I still have lots to learn about mapping so I appreciate any feedback about technical or balancing stuff. Thanks.
+
+*Grapple hook recommended*
