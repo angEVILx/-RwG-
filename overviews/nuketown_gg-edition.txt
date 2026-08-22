@@ -1,0 +1,18 @@
+// overview description file for nuketown_GG-Edition
+// overview by qUiCkSiLvEr
+// put this file and the bmp into the valve_downloads\overviews directory
+// Overview: Zoom 1.97, Map Origin (432.00, 16.00, 430.00), Z Min 929.00, Z Max -69.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.97
+	ORIGIN	432.00 16.00 430.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/nuketown_GG-Edition.bmp"
+	HEIGHT	-69.00
+}

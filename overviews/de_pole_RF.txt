@@ -1,0 +1,14 @@
+// overview description file for de_pole_RF.bsp
+
+global 
+{
+	ZOOM	0.77
+	ORIGIN	16 	328	-192
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_pole_RF.bmp"
+	HEIGHT	-192
+}

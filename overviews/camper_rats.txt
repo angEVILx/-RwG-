@@ -1,0 +1,18 @@
+// overview description file for DocRock's Camper_Rats.bsp
+// overview done by qUiCkSiLvEr (so blame me if it isn't perfect)
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.96, Map Origin (-604.00, -448.00, 242.00), Z Min 1793.00, Z Max -1309.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.96
+	ORIGIN	-604.00 -448.00 242.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Camper_Rats.bmp"
+	HEIGHT	-1309.00
+}

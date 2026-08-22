@@ -1,0 +1,13 @@
+12
+weapon			2560 2560/weapon_chainsaw	0	0	680	180
+weapon_s		2560 2560/weapon_chainsaw	0	180	680	180
+ammo			2560 2560/weapon_chainsaw	928	928	96	96
+d_chainsaw		2560 2560/weapon_chainsaw	0	960	192	64
+weapon			1280 1280/weapon_chainsaw	0	0	340	90
+weapon_s		1280 1280/weapon_chainsaw	0	90	340	90
+ammo			1280 1280/weapon_chainsaw	464	464	48	48
+d_chainsaw		1280 1280/weapon_chainsaw	0	480	96	32
+weapon			640 weapon_chainsaw	0	0	170	45
+weapon_s		640 weapon_chainsaw	0	45	170	45
+ammo			640 weapon_chainsaw	232	232	24	24
+d_chainsaw		640	weapon_chainsaw	0	240	48	16

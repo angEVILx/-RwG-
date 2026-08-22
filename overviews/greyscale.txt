@@ -1,0 +1,18 @@
+// overview description file for DocRock's greyscale.bsp
+// overview done by qUiCkSiLvEr
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.32, Map Origin (760.00, 224.00, 344.00), Z Min 1025.00, Z Max -337.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.32
+	ORIGIN	760.00 224.00 344.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/greyscale.bmp"
+	HEIGHT	-337.00
+}

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.41
+	ORIGIN	96 	608	-728
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/quadfrost.bmp"
+	HEIGHT	-2225
+}

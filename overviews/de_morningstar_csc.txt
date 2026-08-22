@@ -1,0 +1,14 @@
+// overview description file for de_morningstar_csc.bsp
+
+global 
+{
+	ZOOM	1.13
+	ORIGIN	379.63 	-126.31	24.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_morningstar.bmp"
+	HEIGHT	-577
+}

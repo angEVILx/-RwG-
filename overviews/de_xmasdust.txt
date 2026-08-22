@@ -1,0 +1,14 @@
+// overview description file for de_xmasdust.bsp
+
+global 
+{
+	ZOOM	1.10
+	ORIGIN	-96 	960	192
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_xmasdust.bmp"
+	HEIGHT	192
+}

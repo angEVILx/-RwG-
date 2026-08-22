@@ -1,0 +1,16 @@
+16
+weapon			2560 2560/weapon_plasmagun	0	0	680	180
+weapon_s		2560 2560/weapon_plasmagun	0	180	680	180
+ammo			2560 2560/weapon_plasmagun	928	928	96	96
+crosshair		2560 2560crosshairs			192	192	96	96
+d_plasma	  	2560 2560/weapon_plasmagun 	0   960 192 64
+weapon			1280 1280/weapon_plasmagun	0	0	340	90
+weapon_s		1280 1280/weapon_plasmagun	0	90	340	90
+ammo			1280 1280/weapon_plasmagun	464	464	48	48
+crosshair		1280 1280crosshairs			96	96	48	48
+d_plasma	  	1280 1280/weapon_plasmagun 	0   480 96  32
+weapon			640 weapon_plasmagun	0	0	170	45
+weapon_s		640 weapon_plasmagun	0	45	170	45
+ammo			640 weapon_plasmagun	232	232	24	24
+crosshair		640 crosshairs			48	48	24	24
+d_plasma	  	640 weapon_plasmagun 	0   240 48  16

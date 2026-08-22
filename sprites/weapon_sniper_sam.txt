@@ -1,0 +1,5 @@
+4
+weapon 				1280 weapon_sniper_sam 0 0 170 45
+weapon_s 			1280 weapon_sniper_sam  0 45 170 45
+d_sniper_sam 		1280 weapon_sniper_sam  0 112 48 16
+ammo 				1280 weapon_sniper_sam  232 104 24 24
