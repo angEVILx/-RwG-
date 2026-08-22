@@ -1,0 +1,2 @@
+city_hunter.wad
+de_vertigo.wad

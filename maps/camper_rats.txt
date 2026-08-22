@@ -1,0 +1,111 @@
+=======================================================              Camper_Rats  a Half-Life deathmatch experience
+
+level design:  DocRock
+models and tech work:  qUiCkSiLvEr
+=======================================================
+
+THE AUTHORS REQUEST THAT WHILE PLAYING THIS MAP, MONSTERS BE
+ACTIVATED.  WITHOUT THIS ACTIVATED, PLAYERS WILL LOSE THE INTENDED FEELING
+OF THIS MAP.  Activate monsters by typing mp_allowmonsters 1 in console.  Then change-
+leve to Camper_Rats.
+
+=======================================================
+
+Map Name:      		camper_rats.bsp
+Filesize:           	2.24 mb zipped
+
+Authors:            	DocRock & qUiCkSiLvEr
+
+Author's emails:  	docrock64@cox.net
+			ottalini@mindspring.com
+
+Homepages:      	http://www.planethalflife.com/docrocksmaps/
+			http://www.mindspring.com/~ottalini/qUiCkSiLvEr.htm
+
+wadincluded in map:  	camper.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    	No
+Co-Op:                	No
+Deathmatch:     	Yes
+
+Suggested Players:  	8 - 15
+New Textures:   	Yes 
+New Sounds:      	Yes
+New Models:		Yes
+
+Map description:  	A rats-styled map set inside a RV.
+
+=======================================================
+CONSTRUCTION:
+
+base map:               none
+prefabs:                none
+other models:		none
+editor used:            Worldcraft 3.4 Hammer
+utilities used:         Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+known bugs:            	None
+compile machine:    	AMD Athlon XP 1600  1.39 GHz  448 mb of RAM
+compile time:          	30 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip Camper_Rats.zip.  Open the Camper_Rats folder and place the Camper_Rats.bsp, Camper_Rats.res, and Camper_Rats.txt in your valve/maps folder.   Place the wav files in a folder called camper and place that in your valve/sounds folder.  Also place the Camper_Rats overviews in your valve/overviews folder.  Take the models from the model folder and place the camper model folder in your valve/models folder.
+
+Place the ginger.mdl player model in the valve/models/player/ginger folder.
+
+If you'd like a copy of the camper.wad, email me and I'll send it to you.  docrock64@cox.net
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+Wampas_Run, Kitkat_Urban, Tempest, Nightmare, Mario_Land, greyscale, kitkat_express, kitkat_factory, hardcore, kitkat_beach, kitkat_klub, Get_Shorty, Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, DepotArena...etc
+
+=======================================================
+BETA TESTERS:
+babykitkat
+qUiCkSiLvEr
+SilentRunner007
+WaMpA
+Darth_Sailor
+X-15 Agent
+
+HUGE THANKS:
+
+qUiCkSiLvEr	for being there.  for such awesome, professional work. for taking the time
+		even tho you're a very busy man.  For all the models, the overviews, the
+		player models, the fun, the laughter, and play tests.  Thank you!!!!!!	
+
+
+I dedicate this map to qUiCkSiLvEr, for his hard work, and for the friendship we have, and the
+friendship I look forward to for years to come.	
+
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+SnowJob
+ =======================================================
+COPYRIGHT STUFF
+
+Camper_Rats.bsp  	copyright Feb 12, 2003 by DocRock		
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+
