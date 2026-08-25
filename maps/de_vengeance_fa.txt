@@ -1,0 +1,40 @@
+Vengeance-Bomb Defusel
+
+Original obj_vengeance By Sulsa (Stephen Jackson)
+
+Port by Izuko Fukuda
+
+Background.
+     After the destruction of the Chicago-based drug business 
+chain by the Chicago SWAT team, Chicago gangsters went on a rampage 
+and resolved to retaliate against the Chicago government by launching a t
+errorist attack on a monument in downtown Chicago or on the gates of city 
+hall.
+
+Counter-Terrorists:
+Protect the citizens of Chicago by stopping the 
+terrorists from planting their bomb at the city's monument or 
+city hall and eliminating all of their members, or, if that fails to 
+stop them from planting a bomb at the monument or city hall gates, 
+by searching the monument and city hall to locate and 
+defuse that bomb.
+
+Tip:Use ladders to climb high above city buildings to 
+spy on terrorists on the ground and use sniper rifles to 
+assassinate them or use flashbangs.
+
+Terrorists:
+Invade downtown Chicago, find and plant your bomb 
+at the downtown city monument or city hall gates and 
+stop the Counter-Terrorists from defuseing the bomb
+and destroying you and your team,or, alternatively, kill the 
+Counter-Terrorists before they kill you and your team.
+
+Tip:Use smoke grenades to cover your tracks 
+and confuse Counter-Terrorists snipers 
+when moving in open areas.
+
+Other:
+There are two target locations in downtown Chicago, 
+the City Monument and the entrance to City Hall, 
+which have been marked with blue buoys.

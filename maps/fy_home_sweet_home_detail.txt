@@ -1,0 +1,110 @@
+pi_ground                detail/fy_home_sweet_home/grass
+2.0 2.0
+
+pi_brushb                detail/fy_home_sweet_home/brush
+2.0 2.0
+
+pi_road                  detail/fy_home_sweet_home/road
+2.0 2.0
+
+-0cstrike_mr2dr          detail/fy_home_sweet_home/wall
+2.0 2.0
+
+-1cstrike_mr2dr          detail/fy_home_sweet_home/wall
+2.0 2.0
+
+-0cstrike_fj2dk          detail/fy_home_sweet_home/wood
+2.0 2.0
+
+-1cstrike_fj2dk          detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cstrike_fj2dock          detail/fy_home_sweet_home/wood
+2.0 2.0
+
+fifties_dr1              detail/fy_home_sweet_home/wood
+4.0 2.6
+
+pi_wood1                 detail/fy_home_sweet_home/wood
+4.0 2.0
+
+pi_wood3                 detail/fy_home_sweet_home/wood
+4.0 2.0
+
+pi_wood4                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+pi_wood5                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+picture0                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+picture4                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+picture5                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+picture9                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+xcrate10a                detail/fy_home_sweet_home/wood
+2.0 2.0
+
+xcrate10b                detail/fy_home_sweet_home/wood
+2.0 2.0
+
+xcrate10c                detail/fy_home_sweet_home/wood
+2.0 2.0
+
+ammo01                   detail/fy_home_sweet_home/wood
+2.0 2.0
+
+ammo02                   detail/fy_home_sweet_home/wood
+2.0 2.0
+
+ammo03                   detail/fy_home_sweet_home/wood
+2.0 2.0
+
+ammo04                   detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cardbox1                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cardbox4                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cardboxbot1              detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cardboxtop1              detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cstrike_cr2pln           detail/fy_home_sweet_home/wood
+2.0 2.0
+
+fifties_cch4             detail/fy_home_sweet_home/wood
+2.0 2.0
+
+out_dmplid               detail/fy_home_sweet_home/wood
+2.0 2.0
+
+cstrike_dj2old           detail/fy_home_sweet_home/wood
+2.0 2.0
+
+-0cstrike_mj2sg          detail/fy_home_sweet_home/wood
+2.0 2.0
+
+-1cstrike_mj2sg          detail/fy_home_sweet_home/wood
+2.0 2.0
+
+poster11                 detail/fy_home_sweet_home/wood
+2.0 2.0
+
+prefab_pot1              detail/fy_home_sweet_home/wood
+2.0 2.0
+
+generic039               detail/fy_home_sweet_home/wood
+2.0 2.0
