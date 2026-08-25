@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.54
+	ORIGIN	-311.01	11.7	-425
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_villa_savoy.bmp"
+	HEIGHT	-425
+}

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	0.99
+	ORIGIN	258.00 	214.00	976.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_deadcity_cso.bmp"
+	HEIGHT	-513
+}

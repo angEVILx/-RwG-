@@ -1,0 +1,14 @@
+// overview description file for dr_bar_rats.bsp
+
+global 
+{
+	ZOOM	2.06
+	ORIGIN	16 948 -257
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dr_haute.bmp"
+	HEIGHT	-257
+}

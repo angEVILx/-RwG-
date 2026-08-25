@@ -1,0 +1,21 @@
+20
+ammo			2560	aomdc/weapon_beretta	340	270	72	72
+autoaim			2560	aomdc/weapon_beretta	340	414	72	72
+crosshair		2560	aomdc/weapon_beretta	340	342	72	72
+weapon			2560	aomdc/weapon_beretta	0	0	510	135
+weapon_s		2560	aomdc/weapon_beretta	0	135	510	135
+ammo			1280	aomdc/weapon_beretta	340	414	48	48
+autoaim			1280	aomdc/weapon_beretta	412	414	48	48
+crosshair		1280	aomdc/weapon_beretta	340	462	48	48
+weapon			1280	aomdc/weapon_beretta	0	270	340	90
+weapon_s		1280	aomdc/weapon_beretta	0	360	340	90
+ammo			640		aomdc/weapon_beretta	484	270	24	24
+autoaim			640		aomdc/weapon_beretta	460	414	24	24
+crosshair		640		aomdc/weapon_beretta	484	318	24	24
+weapon			640		aomdc/weapon_beretta	0	450	170	45
+weapon_s		640		aomdc/weapon_beretta	170	450	170	45
+ammo			320		aomdc/weapon_beretta	484	366	18	18
+autoaim			320		aomdc/weapon_beretta	484	402	18	18
+crosshair		320		aomdc/weapon_beretta	484	318	24	24
+weapon			320		aomdc/weapon_beretta	388	462	80	20
+weapon_s		320		aomdc/weapon_beretta	388	482	80	20

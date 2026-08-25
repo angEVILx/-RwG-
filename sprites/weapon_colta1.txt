@@ -1,0 +1,13 @@
+4
+weapon 		1280 weapon_colt 0 0 170 45
+weapon_s 	1280 weapon_colt  0 45 170 45
+d_colt 		1280 weapon_colt  0 112 48 16
+ammo 		1280 weapon_colt  232 104 24 24
+crosshair		2560 2560crosshairs	0	144	72	72
+autoaim			2560 2560crosshairs	144	216	72	72
+crosshair		1280 1280crosshairs	0	96	48	48
+autoaim			1280 1280crosshairs	96	144	48	48
+crosshair		640 crosshairs	0	48	24	24
+autoaim			640 crosshairs	48	72	24	24
+crosshair		320 crosshairs	0	48	24	24
+autoaim			320 crosshairs	48	72	24	24

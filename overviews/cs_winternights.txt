@@ -1,0 +1,14 @@
+// overview description file for cs_winternights.bsp  (by d-o-Maxx@wertlos.de)
+
+global 
+{
+	ZOOM	2.04
+	ORIGIN	192.00   741.50   -257.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_winternights.bmp"
+	HEIGHT	-257.00
+}

@@ -1,0 +1,47 @@
+------General Info--------------------------------------------
+
+Date		:  June 15, 2009
+Title           :  boot_tournament
+Filename        :  boot_tournament.bsp
+Filesize	:  5 megs
+Author          :  serono
+Author Email    :  de.ssl@hotmail.com	
+
+
+------Map Desciption-------------------------------------------------
+New version of ag_crossfire map.
+------Play Information-----------------------------------------------
+
+Deathmatch      :  yes
+Single Player   :  info_player_start exists
+How Many Players:  2-16
+
+------Construction---------------------------------------------------
+
+Editor(s) used  :  VHE 3.4 Zoner's HL tools 2.4.2
+Time to Complete:  3 Days total
+Compile Machine :  Core2duo 2.2, 1gb RAM
+Compile time    :  3 min (-extra for hlrad) 
+Playtest time   :  3 Days
+
+Custom Tex's	:  Yes 
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file in your half-life/valve/maps directory, or Adrenaline Gamner Directory.  
+Descomprime este zip sobre la carpeta de Half-Life o Adrenaline Gamer.
+------Thanks/Credits-------------------------------------------------
+
+Venus!
+
+Some Textures from ancient_collection.zip
+3 Textures from dm_ominous
+
+
+
+
+
+
+
+
+

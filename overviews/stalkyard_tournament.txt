@@ -1,0 +1,20 @@
+// overview description file for stalkyard_tournament.bsp
+// created by Napoleon
+// Overview: Zoom 2.33, Map Origin (0.00, -3.00, 166.00), Z Min 369.00, Z Max -37.00, Rotated 0
+
+global 
+{
+	ZOOM	2.33
+	ORIGIN	0.00 	-3.00	166.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/stalkyard_tournament.bmp"
+	HEIGHT	-37
+}
+
+// End of overview description file for stalkyard_tournament
+// thanks for reading
+// Napoleon was here, some undisclosed time, 2023

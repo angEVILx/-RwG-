@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.43
+	ORIGIN	96 	663	-72
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/doublestrife.bmp"
+	HEIGHT	-2225
+}

@@ -1,0 +1,14 @@
+// overview description file for de_noailles.bsp
+
+global 
+{
+	ZOOM	1.18
+	ORIGIN	-732.00 	-1384.00	22.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_noailles.bmp"
+	HEIGHT	-441.00
+}

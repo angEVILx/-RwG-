@@ -1,0 +1,17 @@
+// overview description file for Kitkat_Egyptian.bsp by DocRock
+// overview done by Silentrunner007 (so blame me if it isn't perfect)
+// put this file and the bmp into the valve\overviews directory
+
+
+global 
+{
+	ZOOM	.072
+	ORIGIN	-32.00 64.00 304.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Kitkat_egyptian.bmp"
+	HEIGHT	-3009.00
+}

@@ -1,0 +1,17 @@
+// overview description file for Squidsville.bsp by DocRock
+// overview done by Silentrunner007 
+// put this file and the bmp into the valve\overviews directory
+
+
+global 
+{
+	ZOOM	1.56
+	ORIGIN	1312.00 -892.00 -168.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/squidsville.bmp"
+	HEIGHT	-641.00
+}

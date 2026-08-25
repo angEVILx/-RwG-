@@ -1,0 +1,15 @@
+// overview description file for bikini.bsp
+//  Overview: Zoom 1.16, Map Origin (272.00, 720.41, -512.00), Z Min 129.00, Z Max -1153.00, Rotated 1
+global 
+{
+	ZOOM	1.16
+	ORIGIN	272.00 720.41 -512.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bikini.bmp"
+	HEIGHT	-1153.00
+}
+

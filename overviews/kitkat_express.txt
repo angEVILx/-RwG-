@@ -1,0 +1,17 @@
+// overview description file for DocRock's KitKat_Express.bsp
+// overview done by qUiCkSiLvEr (so blame me if it isn't perfect)
+// put this file and the bmp into the valve\overviews directory
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.38
+	ORIGIN	647.59 -1216 -95.5
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/KitKat_Express.bmp"
+	HEIGHT	-1216
+}

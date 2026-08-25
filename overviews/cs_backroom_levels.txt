@@ -1,0 +1,14 @@
+// overview description file for cs_backroom_levels.bsp
+
+global 
+{
+	ZOOM	1.32
+	ORIGIN	2064 	-920	-3824
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_backroom_levels.bmp"
+	HEIGHT	-4017
+}

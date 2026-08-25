@@ -1,0 +1,10 @@
+8
+weapon			640 weapon_quakegl1	       0	0	170	45
+weapon_s		640 weapon_quakegl1	       0        45      170     45
+ammo			640 weapon_quakegl1	       0	318	24	24
+crosshair	        640 crosshairs         24	48	24	24
+
+weapon		        1280 weapon_quakegl1	   0	90	340	90
+weapon_s		1280 weapon_quakegl1	   0	180	340	90
+ammo			1280 weapon_quakegl1          0	270	48	48
+crosshair		1280 1280crosshairs	   0	96	48	48
