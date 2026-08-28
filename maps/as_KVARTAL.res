@@ -38,7 +38,7 @@ models/chernobyl/budka_kalash.mdl
 models/chernobyl/kotushka_kalash.mdl
 models/props/pi_tree_nl.mdl
 models/buzz/buzzer_kt_derevsew.mdl
-models/man/grasdw.mdl
+models/man/grasDw.mdl
 models/man/topol1w.mdl
 models/props/pi_tree3_nl.mdl
 models/props/pi_tree2_nl.mdl
@@ -81,7 +81,7 @@ models/man/bush_evergreen_group1_nl.mdl
 models/props/bicycle_dead.mdl
 models/man/3dm_seagull.mdl
 sound/ambience/arcticwind3.wav
-models/man/hl2_apc001.mdl
+models/man/HL2_APC001.mdl
 models/props/bobik_rus-1.mdl
 models/man/njeep.mdl
 models/man/vans.mdl

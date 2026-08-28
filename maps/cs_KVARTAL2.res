@@ -32,7 +32,7 @@ models/chernobyl/budka_kalash.mdl
 models/chernobyl/kotushka_kalash.mdl
 models/props/pi_tree.mdl
 models/buzz/buzzer_kt_derevse.mdl
-models/man/grasd.mdl
+models/man/grasD.mdl
 models/props/topol-2.mdl
 models/props/pi_tree3.mdl
 models/props/pi_tree2.mdl

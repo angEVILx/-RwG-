@@ -35,7 +35,7 @@ models/props/car_sedan.mdl
 models/props/rug_oriental-large3.mdl
 sound/music/djrenatcb-12.wav
 models/props/light_bulb2.mdl
-models/man/dom_kv_1.mdl
+models/man/DOM_KV_1.mdl
 sound/kvartal/car_siren-1.wav
 models/man/78rus_gazel_blue.mdl
 models/man/78rus_ladasp.mdl
@@ -44,7 +44,7 @@ models/chernobyl/budka_kalash.mdl
 models/chernobyl/kotushka_kalash.mdl
 models/props/pi_tree.mdl
 models/buzz/buzzer_kt_derevse.mdl
-models/chernobyl/grasd.mdl
+models/chernobyl/grasD.mdl
 models/chernobyl/flo_grass.mdl
 models/props/topol-2.mdl
 models/props/pi_tree3.mdl
