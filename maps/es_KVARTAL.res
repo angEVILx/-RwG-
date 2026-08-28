@@ -76,3 +76,5 @@ sound/kvartal/arcticwind.wav
 models/props/furniture_group-hall01.mdl
 models/props/furniture_group-hotel01.mdl
 models/props/furniture_group-wreck.mdl
+overviews/es_KVARTAL.bmp
+maps/es_KVARTAL.bsp

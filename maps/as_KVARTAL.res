@@ -89,6 +89,7 @@ models/man/78rus_icarus.mdl
 sprites/glow01.spr
 overviews/as_KVARTAL.txt
 overviews/as_KVARTAL.bmp
+maps/as_KVARTAL.bsp
 maps/as_KVARTAL.res
 maps/as_KVARTAL.txt
 maps/as_KVARTAL_detail.txt

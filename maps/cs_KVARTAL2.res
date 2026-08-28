@@ -95,6 +95,7 @@ models/man/78rus_gazel_02.mdl
 models/man/78rus_truck-zil_gray.mdl
 models/man/prop_met_vanna_01.mdl
 models/man/78rus_ambulance_01.mdl
+maps/cs_KVARTAL2.bsp
 maps/cs_KVARTAL2.nav
 maps/cs_KVARTAL2.txt
 maps/cs_KVARTAL2_detail.txt

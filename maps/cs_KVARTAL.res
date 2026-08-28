@@ -34,7 +34,7 @@ models/props/truck_russian-large_blue.mdl
 models/props/rug_oriental-large3.mdl
 sound/music/clubcavair-speeditup.wav
 models/props/light_bulb2.mdl
-models/man/dom_kv_1.mdl
+models/man/DOM_KV_1.mdl
 sound/kvartal/car_siren-1.wav
 models/man/78rus_gazel_blue.mdl
 models/man/78rus_ladasp.mdl
@@ -98,6 +98,7 @@ sound/ambience/thunder_clap.wav
 sprites/laserbeam.spr
 overviews/cs_KVARTAL.txt
 overviews/cs_KVARTAL.bmp
+maps/cs_KVARTAL.bsp
 maps/cs_KVARTAL.res
 maps/cs_KVARTAL.txt
 maps/cs_KVARTAL_detail.txt
