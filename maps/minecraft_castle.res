@@ -25,3 +25,13 @@ sprites/minecraft/minecraft-teleport.spr
 maps/minecraft_castle.res
 maps/minecraft_castle.txt
 //maps/minecraft_castle.bsp
+
+models/player/007-mine/007-mine.mdl
+models/player/cive/cive.mdl
+models/player/creeper/creeper.mdl
+models/player/creepie/creepie.mdl
+models/player/creep-mine/creep-mine.mdl
+models/player/doc-mine/doc-mine.mdl
+models/player/minecraft/minecraft.mdl
+models/player/muggs/muggs.mdl
+models/player/spaceinvaders/spaceinvaders.mdl
