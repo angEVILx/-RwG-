@@ -79,10 +79,10 @@ models/props/deadguy_desert.mdl
 models/man/sat.mdl
 models/man/unitaz.mdl
 models/man/racovina.mdl
-models/man/byxlo_group1.mdl
+models/man/Byxlo_group1.mdl
 models/man/radiator.mdl
 sound/common/body_scream1.wav
-models/man/dom_school-1.mdl
+models/man/DOM_SCHOOL-1.mdl
 sound/school/truck2.wav
 models/man/dm_g_truck.mdl
 sound/kvartal/gavno.wav

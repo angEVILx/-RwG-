@@ -59,9 +59,9 @@ models/props/furniture_group-wreck.mdl
 models/man/sat.mdl
 models/man/unitaz.mdl
 models/man/racovina.mdl
-models/man/byxlo_group1.mdl
+models/man/Byxlo_group1.mdl
 models/man/radiator.mdl
-models/man/dom_school-1.mdl
+models/man/DOM_SCHOOL-1.mdl
 sound/kvartal/car_zil.wav
 models/man/dm_g_truck.mdl
 models/man/nature_kust_10_group_2.mdl
@@ -88,7 +88,7 @@ sound/school/fastline_station3.wav
 sound/school/biolab_windoutside_loop.wav
 sound/kvartal/car_siren-1.wav
 sound/common/body_scream1.wav
-models/man/dom_5-1.mdl
+models/man/DOM_5-1.mdl
 models/man/78rus_truck-zil_blue.mdl
 models/man/78rus_truck-zil_yel.mdl
 models/man/78rus_gazel_02.mdl
