@@ -6,13 +6,13 @@
 // please put this file in the valve/maps directory 
 
 // map related files
-//maps/ApartmentRats.bsp
+maps/ApartmentRats.bsp
 maps/ApartmentRats.txt
 maps/ApartmentRats.res
 
 //Overviews
-overviews/apartmentrats.bmp
-overviews/apartmentrats.txt
+overviews/ApartmentRats.bmp
+overviews/ApartmentRats.txt
 
 //Stock Textures
 //liquids.wad
