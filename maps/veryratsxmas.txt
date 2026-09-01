@@ -1,0 +1,96 @@
+
+HOT DEATH DINER CHRISTMAS MAPPING CONTEST
+=======================================================
+A VERY RATS XMAS
+=======================================================
+
+Map Name:            veryratsxmas.bsp
+Date:                  Jan. 1, 2003
+Filesize:                mb
+Author:                Silentrunner007
+Author email:          Squidsville007@aol.com
+Homepage:             http://www.angelfire.com/punk4/squidsville/
+wadincluded in map:   xmasrats.wad & xmas2.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:         No
+Co-Op:                No
+Deathmatch:          Yes
+
+Suggested Players:      4 - 20
+New Textures:          yes 
+New Sounds:             no
+New Models:             no
+
+Map description:        A rats style map with a christmas theme (rats-scale)
+                           made for HOT DEATH DINER map contest(not finished in time)
+========================================================
+CONSTRUCTION:
+
+base map:              None
+prefabs:                microwave,couch,and entertainment center by CRINITY
+editor used:            Worldcraft 3.4 Hammer
+utilities used:          Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+known bugs:             None
+compile machine:        1.12 GHZ intel 256 mb of RAM
+compile time:           2 hours 38 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip veryratsxmas.zip.  Open the veryratsxmas folder and place the
+veryratsxmas.bsp, veryratsxmas.res, and veryratsxmas.txt in your valve/maps folder.
+
+Place the 6 (six) budcaps.tga files into your valve/gfx/env folder.
+
+Place the 2 wav files in your valve/sound/ambience folder.
+
+Place the wtflare2.spr and the grnflare4 in your valve/sprites folder.
+
+Put the bigfatrat.mdl in your valve/models folder.
+
+
+
+=======================================================
+OTHER LEVELS BY SILENTRUNNER007:
+
+squidsville_arena, wampa=hole, btk_octofdoom
+
+=======================================================
+SPECIAL THANKS:
+
+To Docrock for always having an answer to my questions 
+and for using his kitkat_rats.txt as a base for this txt
+
+BETA TESTERS:
+
+
+OTHER THANKS:
+buddy for icecaps sky
+crinity for prefabs
+all the players that enjoy playing my maps
+=======================================================
+COPYRIGHT STUFF
+
+veryratsxmas.bsp   copyright Jan. 1, 2003 by Silentrunner007 
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+
+
+
+
+

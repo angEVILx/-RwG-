@@ -1,0 +1,6 @@
+dm_eletros_rats2.bsp
+a single level rats-scale killbox populated with electronics, media and lots of money
+
+map by SuPeR CoNtReGuM
+www.tvirus.vai.la
+www.scontregum.vai.la
