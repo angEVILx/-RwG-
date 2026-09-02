@@ -1,0 +1,11 @@
+Author map: Re.Act!ve
+Release: 03.09.2013
+Version: Alpha
+
+Max Players: 32
+Map for GameMod: Zombie Mod
+
+Thanks: DimeX (sound, and textures, skybox)
+
+
+www.zombie-mod.ru
