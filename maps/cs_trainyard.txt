@@ -1,0 +1,12 @@
+Train Yard - Hostage Rescue
+by Cha Siu Fan (glock102020)
+
+Battle in the heart of an industrial rail-transportation centre. Hostages will be held in a train garage.
+
+Terrorists:
+The hostages are train drivers that work for a company which delivers medical drugs by rail. Terrorists have held up some drug-filled carriages and are also holding the employees at ransom.
+
+Counter-Terrorists:
+Primary objective is to rescue the hostages before they are killed. If possible, clear the warehouse too by eliminating all opposition.
+
+Recommended players: 8 - 12

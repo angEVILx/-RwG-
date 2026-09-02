@@ -1,0 +1,14 @@
+// overview description file for cs_trainyard.bsp
+
+global 
+{
+	ZOOM	2.31
+	ORIGIN	-992 	16	160
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_trainyard.tga"
+	HEIGHT	-193
+}
