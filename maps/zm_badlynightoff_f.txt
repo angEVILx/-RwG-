@@ -1,0 +1,19 @@
+The zombies are right here at the apartment.
+How can you survive?
+
+5 floors, 8 rooms.
+each room has at least 2 exits.
+all the lamps and flares can be break.
+the lights can be destroy by break the control panel.
+
+DO NOT stuck the doors
+DO NOT try to get out.
+
+
+thanks to my friends for their ideal rooms in this map
+
+Zin Auu		[5F]	Beagle
+Allied Force	[4F]	Cheesezorz
+CXX LIU		[3F]	Demoman
+(Empty)		[2F]	Gordon Freeman
+		[1F]

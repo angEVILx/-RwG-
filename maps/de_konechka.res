@@ -1,0 +1,12 @@
+gfx/env/kone4ka_bk.tga
+gfx/env/kone4ka_dn.tga
+gfx/env/kone4ka_ft.tga
+gfx/env/kone4ka_lf.tga
+gfx/env/kone4ka_rt.tga
+gfx/env/kone4ka_up.tga
+models/tree1_de_konechka.mdl
+models/tree2_de_konechka.mdl
+models/tree3_de_konechka.mdl
+de_konechka.txt
+overviews/de_konechka.bmp
+overviews/de_konechka.txt

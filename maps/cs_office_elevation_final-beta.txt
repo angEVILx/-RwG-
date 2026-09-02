@@ -1,0 +1,16 @@
+The Seventh Floor Office (Final Beta) - Hostage Rescue
+
+by YellowJello
+textures by Sphinx, George_Pooshoes, MikeZilla, 
+			and Fingers
+models by Amaruq and explorer1911
+
+Counter-Terrorists: Enter the seventh floor
+office and rescue the hostages. Take out the
+Terrorists without jeopardizing the hostages.
+
+Terrorists: Prevent Counter-Terrorist force from
+rescuing the hostages.
+
+Other Notes: There are 4 hostages in this
+mission.

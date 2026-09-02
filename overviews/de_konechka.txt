@@ -1,0 +1,18 @@
+// overview description file for de_konechka.bsp
+
+global 
+{
+	ZOOM	1.57
+	ORIGIN	75.26 	13.28	-1025.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_konechka.bmp"
+	HEIGHT	-1025.00
+}
+
+
+
+// map by Blackcock 02.2022

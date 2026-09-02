@@ -1,0 +1,15 @@
+The Airforce One - VIP Escape
+Map & Textures by Warbeast
+Map port for CS 1.6 by Niko
+
+Edited Plot:
+On board among the passengers were terrorists. 
+They want to overthrow the current government in the USA.
+
+Counter-Terrorists: 
+Escort the President to a parachute jump, 
+Do not let the terrorists kill him
+
+Terrorists: Eliminate the President before he 
+escapes.
+

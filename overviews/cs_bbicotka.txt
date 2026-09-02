@@ -1,0 +1,14 @@
+// overview description file for cs_bbicotka.bsp by BuZZeR
+
+global 
+{
+	ZOOM	1.96
+	ORIGIN	135 471.50 -368
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_bbicotka.bmp"
+	HEIGHT	-368
+}

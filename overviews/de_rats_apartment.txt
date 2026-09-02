@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.55
+	ORIGIN	-744 1682 -60
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rats_apartment.bmp"
+	HEIGHT	-59
+}

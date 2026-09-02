@@ -1,0 +1,14 @@
+// overview description file for cs_office_elevation_final-beta.bsp
+
+global 
+{
+	ZOOM	1.83
+	ORIGIN	36	775.56	-1569
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_office_elevation_final-beta.bmp"
+	HEIGHT	-1569
+}

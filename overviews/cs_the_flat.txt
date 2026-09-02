@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	4.57
+	ORIGIN	313	568.50	-673
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_the_flat.bmp"
+	HEIGHT	-673
+}

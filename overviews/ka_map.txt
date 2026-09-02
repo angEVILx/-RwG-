@@ -1,0 +1,14 @@
+// overview description file for ka_map.bsp
+
+global 
+{
+	ZOOM	2.82
+	ORIGIN	0 	0	48
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ka_map.bmp"
+	HEIGHT	-129
+}

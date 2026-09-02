@@ -1,0 +1,11 @@
+Apartments - Hostage Rescue
+by Cha Siu Fan ( Glock18 )
+Recommended players: 8-10
+
+Hostages are being held in an urban apartment block.
+
+Counter-Terrorists:
+Lead the hostages to the ground floor lobby of the building.
+
+Terrorists:
+Prevent hostages from being rescued by all means.
