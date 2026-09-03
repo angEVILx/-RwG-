@@ -1,3 +1,4 @@
+maps/Allie_gator.bsp
 maps/allie_gator.res
 models/acr/alliescat.mdl
 models/acr/baby_headcrab_green.mdl
@@ -9,7 +10,7 @@ models/acr/spore.mdl
 models/acr/taggibs.mdl
 sound/allie_gator/alf-kitty.wav
 sound/allie_gator/catmad.wav
-sound/allie_gator/foryou.wav
+sound/allie_gator/ForYou.wav
 sound/allie_gator/meow.wav
 sound/allie_gator/meow1.wav
 sound/allie_gator/purr1.wav
