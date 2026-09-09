@@ -1,0 +1,7 @@
+6
+weapon			320 needle	0	98	80	20
+weapon_s		320 needle	0	118	80	20
+weapon			640 needle	0	0	170	45
+weapon_s		640 needle	0	48	170	45
+ammo    		640 640hud7 	0   	72  	24  	24
+ammo2   		640 640hud7 	48  	72  	24  	24
