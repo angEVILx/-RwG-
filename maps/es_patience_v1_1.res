@@ -1,0 +1,1 @@
+models/man/78rus_icarus.mdl
