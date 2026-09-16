@@ -18,7 +18,7 @@ gfx/env/backalleybk.tga
 // models/catsgallery/xen_plant8.mdl
 // models/acr/alliescat.mdl
 // models/acr/momscat.mdl
-// models/acrcastle/Allie2.mdl
+// models/acrcastle/allie2.mdl
 // sound/acr_catslovemario/angry4.wav
 // sound/misc/alliesboardwalk.wav
 // models/player/ACR_Allie/acr_allie.mdl
