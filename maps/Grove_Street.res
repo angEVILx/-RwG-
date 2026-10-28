@@ -1,0 +1,10 @@
+models/player/carl_johnson/carl_johnson.mdl
+models/player/carl_johnson/carl_johnson.bmp
+models/player/sa_bigsmoke/sa_bigsmoke.mdl
+models/player/sa_bigsmoke/sa_bigsmoke.bmp
+models/player/sa_cj/sa_cj.mdl
+models/player/sa_cj/sa_cj.bmp
+models/player/sa_ryder/sa_ryder.mdl
+models/player/sa_ryder/sa_ryder.bmp
+models/player/sa_sweet/sa_sweet.mdl
+models/player/sa_sweet/sa_sweet.bmp
