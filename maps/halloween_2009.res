@@ -18,9 +18,9 @@ sound/halloween_killbox/jp4.wav
 sound/halloween_killbox/jp1.wav
 sound/halloween_killbox/jp2.wav
 sound/halloween_killbox/jp3.wav
-sound/halloween_killbox/Wind.wav
+sound/halloween_killbox/wind.wav
 sound/halloween_killbox/zombie.wav
-sound/halloween_killbox/GetOut.wav
+sound/halloween_killbox/getout.wav
 gfx/env/eygrip257_bk.tga
 gfx/env/eygrip257_dn.tga
 gfx/env/eygrip257_ft.tga

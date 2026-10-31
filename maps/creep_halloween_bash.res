@@ -27,7 +27,7 @@ sound/halloween2004/halloween.wav
 sound/halloween2004/horror005.wav
 sound/halloween2004/moans01.wav
 sound/halloween2004/halloween-scare.wav
-sound/halloween2004/TheRack.wav
+sound/halloween2004/therack.wav
 gfx/env/towsercreepbk.tga
 gfx/env/towsercreepdn.tga
 gfx/env/towsercreepft.tga
