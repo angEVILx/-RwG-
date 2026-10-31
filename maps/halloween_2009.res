@@ -13,14 +13,14 @@ sprites/halloween_killbox/skull.spr
 sprites/halloween_killbox/spell.spr
 sound/halloween_killbox/elec_explo.wav
 sound/halloween_killbox/bleedout.wav
-sound/halloween_killbox/hungersh.wav
+sound/halloween_killbox/hungerSH.wav
 sound/halloween_killbox/jp4.wav
 sound/halloween_killbox/jp1.wav
 sound/halloween_killbox/jp2.wav
 sound/halloween_killbox/jp3.wav
-sound/halloween_killbox/wind.wav
+sound/halloween_killbox/Wind.wav
 sound/halloween_killbox/zombie.wav
-sound/halloween_killbox/getout.wav
+sound/halloween_killbox/GetOut.wav
 gfx/env/eygrip257_bk.tga
 gfx/env/eygrip257_dn.tga
 gfx/env/eygrip257_ft.tga
