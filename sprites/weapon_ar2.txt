@@ -1,15 +1,9 @@
-//Took pretty long time, -Kinkoo
-//AR 2 HUD SHITS
+// Pulse Rifle
+
 12	// number of sprites
-weapon			320 320hud1	0	120	80	20
-weapon_s		320 320hud1	0	140	80	20
-ammo			320 320hud2	0	16	18	18
-ammo2			320 320hud2	36	16	18	18
-crosshair		320 crosshairs	0	48	24	24
-autoaim			320 crosshairs	48	72	24	24
-weapon			640 ar2huddo	0	135	170	45
-weapon_s		640 640hud4	0	135	170	45
-ammo			640 640hud7	0	72	24	24
-ammo2			640 640hud7	48	72	24	24
-crosshair		640 hl2crossfur	0	0	128	128
-autoaim			640 hl2crossfur	0	0	128	128
+weapon			640 ar2_nochoisen	0	45	170	45
+weapon_s		640 ar2_choisen	0	45	170	45
+ammo			640 ar2_ammo	192	230	22	22
+ammo2			640 ar2_ammo	217	230	22	22
+crosshair		640 crosshairs	0	48	24	24
+autoaim			640 crosshairs	48	72	24	24
